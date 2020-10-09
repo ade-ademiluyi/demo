@@ -1,0 +1,55 @@
+[{
+        "firstName": "willis",
+        "lastName": "Ademiluyi",
+        "GPA": {
+            "freshmanYear": 3.86,
+            "sophomoreYear": 3.93,
+            "juniorYear": 3.94
+        }
+    },
+    {
+        "firstName": "Jamies",
+        "lastName": "marshall",
+        "GPA": {
+            "freshmanYear": 3.65,
+            "sophomoreYear": 3.82,
+            "juniorYear": 3.88
+        }
+    },
+    {
+        "firstName": "baljit",
+        "lastName": "washignton",
+        "GPA": {
+            "freshmanYear": 3.15,
+            "sophomoreYear": 3.9,
+            "juniorYear": 3.59
+        }
+    },
+    {
+        "firstName": "yasine",
+        "lastName": "littleton",
+        "GPA": {
+            "freshmanYear": 3.95,
+            "sophomoreYear": 3.6,
+            "juniorYear": 3.0
+        }
+    },
+    {
+        "firstName": "joshua",
+        "lastName": "brainard",
+        "GPA": {
+            "freshmanYear": 3.05,
+            "sophomoreYear": 3.12,
+            "juniorYear": 3.33
+        }
+    },
+    {
+        "firstName": "blaise",
+        "lastName": "olisa",
+        "GPA": {
+            "freshmanYear": 3.65,
+            "sophomoreYear": 3.44,
+            "juniorYear": 3.18
+        }
+    }
+]
